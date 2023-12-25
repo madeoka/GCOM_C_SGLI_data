@@ -1,4 +1,4 @@
-#
+# Originally from Kajiwara Sensei, Chiba University
 
 import math
 import numpy as np
